@@ -1,0 +1,35 @@
+input {
+    border: none;
+    font-size: 3em;
+    width: 4em;
+
+}
+
+input:focus {
+    outline: none;
+    font-size: 3em;
+    align-self: center;
+
+}
+
+.btns {
+    position: absolute;
+    right: 70px;
+}
+
+.timebox {
+    position: absolute;
+    justify-content: center;
+    height: 100px;
+    left: 610px;
+    top: 160px;
+}
+
+.align {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.circle {}
