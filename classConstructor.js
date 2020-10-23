@@ -25,7 +25,7 @@ class Timer {
     pause = () => {
         clearInterval(this.interval)
         // if (this.timeRemaining = 0) {
-        //     clearInterval(this.interval);
+        //    clearInterval(this.interval);
         // }
     }
     tick = () => {
